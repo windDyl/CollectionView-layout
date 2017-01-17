@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/ViewController.m \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/ViewController.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/Masonry.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/MASUtilities.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/View+MASAdditions.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/MASConstraintMaker.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/MASConstraint.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/MASViewAttribute.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/View+MASShorthandAdditions.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/ViewController+MASAdditions.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/NSArray+MASAdditions.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/NSArray+MASShorthandAdditions.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/MASCompositeConstraint.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/MASViewConstraint.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/MASLayoutConstraint.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/Masonry/NSLayoutConstraint+MASDebugAdditions.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/dyFlowLayout.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/MHBigCollectionViewCell.h \
+  /Users/ethank/Desktop/SwiftDemo/testCollectionView/testCollectionView/MHSmallCollectionViewCell.h
